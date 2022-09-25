@@ -1,4 +1,4 @@
-# Belajar Dasar Pemrograman Web
+# Simple Tourism in Indonesia Web
 
 ## Tech Stack
 

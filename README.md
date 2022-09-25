@@ -2,9 +2,9 @@
 
 ## Tech Stack
 
--HTML
--CSS
--Javascript
+- HTML
+- CSS
+- Javascript
 
 ## Tools
 
